@@ -1,12 +1,12 @@
 This is the README for the Subsystem_3
 =======
 
-*Example ... Please chage to suit your own system*
+Please download the file and run as normal.
 
 
 Main script 
 -------
-The subsystem_3.m MATLAB script should be run
+The subsystem3_Gareth_Jones.m MATLAB script should be run
 
 Execution time
 -------
